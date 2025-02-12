@@ -2,8 +2,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tomas-ezequiel-garcia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 <a href="mailto:tomasgarcia003@gmail.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="20" width="20" />
+  <div style="background-color: black; display: inline-block; padding: 5px; border-radius: 5px;">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="20" width="20" />
+  </div>
 </a>
+
 
 </p>
 
