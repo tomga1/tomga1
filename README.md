@@ -45,25 +45,18 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
   <!-- Trello -->
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="55" height="55"/>
-  
   <!-- Visual Studio -->
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" width="55" height="55"/>
-
   <!-- Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
-
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
-
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-
-  <!-- Workbench (MySQL) -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_Workbench_Logo.png" alt="MySQL Workbench" width="55" height="55"/>
-
+ <!-- MySQL Workbench -->
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/mysql-workbench.svg" alt="MySQL Workbench" width="55" height="55"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  
   <!-- Azure -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
 </p>
