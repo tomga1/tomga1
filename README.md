@@ -11,13 +11,20 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### 🤵 About Me:
-🏦 I work at DER Distribuciones in the IT department as a Backend Developer and IT Support.
-🎓 I'm studying a Technical Degree in Programming at UTN Pacheco.
-🤔 I use daily C#, Python, PHP.
-🛢️ I work with relational databases: MySQL and SQL Server.
-🌱 I love reading and learning new things.
-💻 My specialty is backend development.
+### ### 🤵 About Me:
+
+🏦 I work at DER Distribuciones in the IT department as a Backend Developer and IT Support.  
+
+🎓 I'm studying a Technical Degree in Programming at UTN Pacheco.  
+
+🤔 I use daily C#, Python, PHP.  
+
+🛢️ I work with relational databases: MySQL and SQL Server.  
+
+🌱 I love reading and learning new things.  
+
+💻 My specialty is backend development.  
+
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
