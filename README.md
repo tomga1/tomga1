@@ -53,8 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
- <!-- MySQL Workbench -->
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/mysql-workbench.svg" alt="MySQL Workbench" width="55" height="55"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
   <!-- Azure -->
@@ -98,20 +96,4 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ---
 
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-<!-- BLOG-POST-LIST:END -->
----
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
