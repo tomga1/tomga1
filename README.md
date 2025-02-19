@@ -13,6 +13,8 @@
 
 ### ### 🤵 About Me:
 
+📍 I'm from Buenos Aires, Argentina 🇦🇷
+
 🏦 I work at DER Distribuciones in the IT department as a Backend Developer and IT Support.  
 
 🎓 I'm studying a Technical Degree in Programming at UTN Pacheco.  
