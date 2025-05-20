@@ -13,19 +13,21 @@
 
 ### ### 🤵 About Me:
 
-📍  I'm from Buenos Aires, Argentina
+👨‍🎓 Student in the University Technician in Programming program at UTN-FRGP
+📚 Self-taught English learner
 
-🏦 I work at DER Distribuciones in the IT department as a Backend Developer and IT Support.  
+💻 Backend development experience: C#, PHP, and Python, RESTful APIs
+🌐 Frontend knowledge: React, JavaScript, HTML, CSS
 
-🎓 I'm studying a Technical Degree in Programming at UTN Pacheco.  
+⚙️ I stand out for my strong problem-solving orientation, informed decision-making, and constant pursuit of efficient and sustainable solutions.
 
-🤔 I use daily C#, Python, PHP.  
+🚀 I’m motivated by tackling technical challenges and working in collaborative teams to continue growing both professionally and technically.
+I'm committed to quality, continuous improvement, and delivering value in every project.
 
-🛢️ I work with relational databases: MySQL and SQL Server.  
+🌍 English level: Upper-Intermediate (B2), capable of understanding and analyzing complex texts and conversations, including abstract topics, and holding basic non-technical conversations.
 
-🌱 I love reading and learning new things.  
-
-💻 My specialty is backend development.  
+📧 tomasgarcia003@gmail.com
+🔗 GitHub: tomga1
 
 
 <p align="center">
