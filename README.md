@@ -17,6 +17,7 @@
 📚 Self-taught English learner
 
 💻 Backend development experience: C#, PHP, and Python, RESTful APIs
+
 🌐 Frontend knowledge: React, JavaScript, HTML, CSS
 
 ⚙️ I stand out for my strong problem-solving orientation, informed decision-making, and constant pursuit of efficient and sustainable solutions.
