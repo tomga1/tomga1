@@ -63,7 +63,6 @@ I'm committed to quality, continuous improvement, and delivering value in every 
   <!-- Azure -->
   
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="55" height="55"/>
 
