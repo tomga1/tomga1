@@ -67,8 +67,6 @@ I'm committed to quality, continuous improvement, and delivering value in every 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="55" height="55"/>
 
-
-  <img src="https://seeklogo.com/images/F/flowbite-logo-586471/flowbite-logo-586471.svg" alt="Flowbite" width="55" height="55"/>
 </p>
 
 
