@@ -18,7 +18,7 @@
 
 💻 Backend development experience: C#, PHP, and Python, RESTful APIs
 
-🌐 Frontend knowledge: React, JavaScript, HTML, CSS
+🌐 Frontend knowledge: React, Vite,  JavaScript, HTML, CSS, Tailwindcss , Flowbite
 
 ⚙️ I stand out for my strong problem-solving orientation, informed decision-making, and constant pursuit of efficient and sustainable solutions.
 
@@ -62,6 +62,13 @@ I'm committed to quality, continuous improvement, and delivering value in every 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
   <!-- Azure -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="55" height="55"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Azure" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
+
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
+
+  <img src="https://www.vectorlogo.zone/logos/flowbiteio/flowbiteio-icon.svg" alt="Flowbite" width="55" height="55"/>
 </p>
 
 
